@@ -29,7 +29,7 @@ This Python function generates an HTML page to celebrate Mother's Day with custo
 ## Example Usage:
 
 ``` python
-from PyNUtools import Mothers_day_coder
+from PyNUtools-main import Mothers_day_coder
 
 # Generate Mother's Day greeting with custom message
 Mothers_day_coder("Mom", "Son", "Thank you for everything! \nI love you!!", "Happy Mother's Day", general_message_T_or_F=False)
