@@ -1,8 +1,4 @@
-# Command to Download
 
-``` terminal
-pip install PyNUtools-main/PyNUtools-0.1-py3-none-any.whl
-```
 
 # Mother's Day Coder
 
