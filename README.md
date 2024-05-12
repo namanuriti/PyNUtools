@@ -1,3 +1,7 @@
+# Command to Download
+
+`pip install /Users/naman/PycharmProjects/PyNUtools/dist/PyNUtools-0.1-py3-none-any.whl`
+
 # Mother's Day Coder
 
 This Python function generates an HTML page to celebrate Mother's Day with customizable messages and styles. The function generates HTML, CSS, and JavaScript code based on the provided parameters.
