@@ -1,6 +1,6 @@
 # Command to Download
 
-` python pip install /Users/naman/PycharmProjects/PyNUtools/dist/PyNUtools-0.1-py3-none-any.whl`
+``` terminal pip install /Users/naman/PycharmProjects/PyNUtools/dist/PyNUtools-0.1-py3-none-any.whl```
 
 # Mother's Day Coder
 
