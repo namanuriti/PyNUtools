@@ -1,4 +1,4 @@
-def Mothers_day_coder(how_your_call_your_mother, how_you_are_called_by_your_mother, custom_title, general_message_T_or_F, custom_message=None):
+def Mothers_day_coder(how_you_call_your_mother, how_you_are_called_by_your_mother, custom_title, general_message_T_or_F, custom_message=None):
    html_code = """"""
 
    if general_message_T_or_F == False:
@@ -18,8 +18,8 @@ def Mothers_day_coder(how_your_call_your_mother, how_you_are_called_by_your_moth
           <div class="balloon"></div>
       
           <div class="card">
-              <h1>Happy Mother's Day {how_your_call_your_mother} :-)</h1>
-              <p>Dear {how_your_call_your_mother}, {custom_message}</p>
+              <h1>Happy Mother's Day {how_you_call_your_mother} :-)</h1>
+              <p>Dear {how_you_call_your_mother}, {custom_message}</p>
               <p id="message">With love,</p>
               <p>{how_you_are_called_by_your_mother}</p>
           </div>
@@ -46,8 +46,8 @@ def Mothers_day_coder(how_your_call_your_mother, how_you_are_called_by_your_moth
           <div class="balloon"></div>
 
           <div class="card">
-              <h1>Happy Mother's Day {how_your_call_your_mother} 🤱</h1>
-              <p>Dear {how_your_call_your_mother},
+              <h1>Happy Mother's Day {how_you_call_your_mother} 🤱</h1>
+              <p>Dear {how_you_call_your_mother},
               Happy Mother's Day! Your love and guidance have shaped me into who I am today. Thank you for being my rock, my confidant, and my biggest cheerleader. Today and every day, I celebrate you and the beautiful bond we share. I love you more than words can say.</p>
               <p id="message">With love,</p>
               <p>{how_you_are_called_by_your_mother}</p>
